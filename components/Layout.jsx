@@ -1,7 +1,7 @@
 // #this appears in every page
 
 import Footer from "./Footer";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 
 const Layout = ({ children }) => {
   return (
